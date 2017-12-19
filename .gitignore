@@ -1,0 +1,3 @@
+.ruby-version
+*.sw*
+Gemfile.lock
